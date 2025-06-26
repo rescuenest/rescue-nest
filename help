@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rescue Nest – Stray Dog Sanctuary</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; color: #333; max-width: 800px; margin-left: auto; margin-right: auto; }
+    header { text-align: center; margin-bottom: 40px; }
+    h1 { color: #2a7ae2; }
+    .wallets, .intro { margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background: #fafafa; }
+    .wallets pre { background: #eee; padding: 10px; overflow-x: auto; }
+    .footer { text-align: center; margin-top: 50px; font-size: 0.9em; color: #555; }
+    a { color: #2a7ae2; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rescue Nest 🐾</h1>
+    <p>Building a safe haven for stray dogs</p>
+  </header>
+
+  <section class="intro">
+    <h2>A Message from the Heart</h2>
+    <p>Hello to all of you with hearts as deep as the ocean 💚</p>
+    <p>We live in a place where stray dogs — the most loyal and loving creatures on Earth — are treated as pests. They have no rights, no protection, no value in the eyes of the system. There’s no official organization that defends animals here. Instead, stray dogs are brutally killed, just to reduce their numbers in cities. From gunshots to acid injections, the suffering is beyond words. Some people even kill them for a tiny bit of money. Many are tortured for fun. The things we’ve seen and heard would break any human’s heart.</p>
+    <p>Me and three close friends couldn’t take it anymore. So we decided to build something real: a safe haven, a true sanctuary, a home for 20,000 stray dogs. 🏡</p>
+    <p>But we can’t do it alone. We need your help to give these beautiful souls a second chance at life. 🙏 We’ve made a basic list of the supplies and space a shelter like this needs. It’s just the beginning — if we can raise even a portion of the cost, we’ll do the rest with our own hands. What matters is starting. What matters is stopping the killing. What matters is kindness. We’re not asking for much. Even $1 makes a difference. 🪙 Whether it’s one dollar or a thousand — what counts is the love behind it. This is about humanity.</p>
+    <p>💔 Due to international sanctions, we have no access to PayPal or any kind of global banking. The only way we can receive help is through cryptocurrency wallet addresses listed below.</p>
+    <p>If you're reading this, you have the power to make real change. Even a small donation — or simply sharing this message — can save lives.</p>
+    <p><strong>They deserve better. Let’s be their voice. Thank you for caring. 🐾</strong></p>
+  </section>
+
+  <section class="wallets">
+    <h2>How You Can Support</h2>
+    <pre>
+USDT-trc20 / USDC-trc20 / TRON (Tron Mainnet)
+TC3AP5S882mvvpHRmkmCLgMMCvmku8w3YY
+
+USDT-bep20 / USDC-bep20 / BNB (BSC)
+0x8fd8c194ce3a2c045ac572c64e150d9c1a013535
+
+USDT-erc20 / USDC-erc20 / ETH (Ethereum Mainnet)
+0x8fd8c194ce3a2c045ac572c64e150d9c1a013535
+
+USDT-spl / USDC-spl / SOL (Solana)
+DBgbQsD3ssgQy2zdfHXVGAft7VGAft7dF2YykW1Jq3qFSWZQ3V
+
+DOGE (Dogecoin Mainnet)
+D5Z2Wmw6W4eVMkmtNqYNK8iSrErAs3oAsW
+
+BTC (Native SegWit) (Bech32 - P2WPKH)
+bc1qu9ug37qal5cl60dp2aexh6fjjdmc98lgnvxwgw
+
+BTC (Nested SegWit) (Base58 - P2SH)
+3PpkPNNtPU5PGbYWevEihmrPHtD2KSYgP2
+
+BTC (Legacy) (Base58 - P2PKH)
+1DpgWeZFTooU6Tjq28Qtzr4Fq47u1fNmzg
+
+BTC (Taproot) (Bech32m - P2TR)
+bc1pzpmq9zt2qtej2dtfll0ms9zra3uwgekuk3pjjjrrzagqf4v6h60qglvzed
+    </pre>
+  </section>
+
+  <div class="footer">
+    <p>Created by Rescue Nest Team – rescue.nest365@gmail.com</p>
+  </div>
+</body>
+</html>
