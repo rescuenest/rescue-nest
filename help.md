@@ -1,26 +1,35 @@
 # Rescue Nest Project Help
 
-Welcome to the Rescue Nest project repository.
-
-This page contains important information and instructions for the Rescue Nest animal shelter project.
-
 ---
 
-## About Rescue Nest
+## 🐶 A Message from the Heart – Help Us Build Rescue Nest
 
-We are building a safe sanctuary for 20,000 stray dogs, giving them shelter, food, medical care, and love.
+Hello to all of you with hearts as deep as the ocean 💚
 
-Due to international sanctions, we cannot access PayPal or traditional banking, so donations are accepted **only** via cryptocurrency wallets listed below.
+We live in a country where stray dogs — the most loyal and loving creatures on Earth — are treated as pests. They have no rights, no protection, no value in the eyes of the system. There’s no official organization that defends animals here. Instead, stray dogs are brutally killed, just to reduce their numbers in cities.
 
----
+From gunshots… to acid injections… the suffering is beyond words. Some people even kill them for a tiny bit of money. Many are tortured for fun. The things we’ve seen — and heard — would break any human’s heart.
 
-## How to Help
+Me and three close friends couldn’t take it anymore. So we decided to build something real:  
+A safe haven. A true sanctuary. A home for 20,000 stray dogs. 🏡
 
-1. Visit our website: [https://sites.google.com/view/rescue-nest](https://sites.google.com/view/rescue-nest)
+But we can’t do it alone.  
+We need your help to give these beautiful souls a second chance at life. 🙏  
+We’ve made a basic list of the supplies and space a shelter like this needs. It’s just the beginning — if we can raise even a portion of the cost, we’ll do the rest with our own hands.  
+What matters is starting. What matters is stopping the killing. What matters is kindness.
 
-2. Share our project and raise awareness.
+We’re not asking for much.  
+Even $1 makes a difference. 🪙 Whether it’s one dollar or a thousand — what counts is the love behind it.  
+This is about humanity.
 
-3. Donate via one of the cryptocurrency addresses below:
+💔 Due to international sanctions, we have no access to PayPal or any kind of global banking.  
+The only way we can receive help is through cryptocurrency wallet addresses listed below.
+
+If you're reading this, you have the power to make real change.  
+Even a small donation — or simply sharing this message — can save lives.
+
+They deserve better. Let’s be their voice.  
+Thank you for caring. 🐾
 
 ---
 
